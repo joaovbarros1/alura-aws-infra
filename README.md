@@ -8,3 +8,7 @@ Foram criados os seguintes recursos:
 - Cluster.
 - RDS -> Banco de dados MySql.
 - Service - Load Balancer Fargate service, já com configurações de auto scalling.
+
+Link do repositório central da formação completa: 
+- <a href="https://github.com/joaovbarros1/microservices-java-spring-curso1" target="blank">microservices-java-spring-curso1</a>.
+- Acesse o repositório acima para maiores informações.
